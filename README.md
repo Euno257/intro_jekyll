@@ -1,4 +1,4 @@
-#Introduction to basic jekyll
+# Introduction to basic jekyll
 
 ## Install jekyll
 <p><code> gem install bundler jekyll </code></p>
