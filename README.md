@@ -4,7 +4,7 @@
 <p><code> gem install bundler jekyll </code></p>
 
 ## Initialising jekyll
-<p><code> jekyll new <projectname> </code></p>
+<p><code> jekyll new projectname </code></p>
 
 ## Hosting
 for first time starting the server
@@ -27,7 +27,7 @@ By using permalink attribute you can assign a URL to any page as of your own cho
 ## Themes
 Jekyll uses 'minima' as a default theme. You can find different themes on https://rubygems.org/
 Take the name of the theme which you want to install and add it to the 'Gemfile' inside the main folder.
-  <p><code> gem "<ThemeName>" </code></p>
+  <p><code> gem "ThemeName" </code></p>
  Then stop the server(ctrl+c) and write the command:
  <p><code> bundle install </code></p>
 The above command will install all the gem for you. Now lastly you have to add your themename to the 'config.yml' file and its done. That's it!!
