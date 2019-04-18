@@ -36,3 +36,7 @@ Now for results, Start your site server using
 
 #### Just wait a second, I refreshed my page & "we are not getting anything on our server why?"
 It's happening because in our new theme, it doesn't contains layouts like 'page','home' & 'post'. So go to your theme's github repository and checkout the layouts folder. Change the layouts in the our websites folder. It's amazing!
+
+## Custom layouts
+You can also add a "layout" folder if you want to customize your websites layout.
+Add html file inside the folder and specify the file's name in each markdown file's layout section.
