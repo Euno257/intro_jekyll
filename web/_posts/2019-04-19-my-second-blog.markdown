@@ -1,7 +1,5 @@
 ---
 layout:  post
-title:  "My second blog!"
-date:   2019-04-18 23:08:59 +0530
-categories: jekyll update
+
 ---
 By the way it's my first post! Previous one was the default one. LOL
