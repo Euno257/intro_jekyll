@@ -12,16 +12,16 @@ for first time starting the server
 Otherwise just use
 <p><code> jekyll serve </code></p>
 
-## Adding More Blogs
+## Blogs
 More blog can be added by adding .md fies to the 'posts' folder.
 
 ## Adding Drafts
 Add another folder namely 'drafts'.To this folder you can add important documents which you don't want display on the website.
 
-## Adding section
+## Section
 Adding other sections like 'Abouts' ection. Add these kind of sections by directly adding markdown files to the main folder.
 
-## Adding Permalink
+## Permalink
 By using permalink attribute you can assign a URL to any page as of your own choice.
 
 ## Themes
