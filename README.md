@@ -17,3 +17,6 @@ Add another folder namely 'drafts'.To this folder you can add important document
 
 ## Adding section
 Adding other sections like 'Abouts' ection. Add these kind of sections by directly adding markdown files to the main folder.
+
+## Adding Permalink 
+By using permalink attribute you can assign a URL to any page as of your own choice.
