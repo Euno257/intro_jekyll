@@ -1,4 +1,5 @@
 # Introduction to basic jekyll
+Making a Static Website using jekyll.
 
 ## Install jekyll
 <p><code> gem install bundler jekyll </code></p>
@@ -43,3 +44,8 @@ Add html file inside the folder and specify the file's name in each markdown fil
 
 ## Adding includes
 Make a new folder for includes and store the html files in it. let say we want to include header of our website from 'header.html' on a another html file you have to write <p><code> {{% include header.html %}} </code></p>
+
+## Add a mini database to your website
+Make a ' data' folder inside the main folder. This folder contains 3 types of data files .yml,.json & .csv format files to store the data.
+
+#### Now our website is ready and if you want to deploy it on github pages, upload all your files to 'gh-pages' branch. Lastly if you liked the tutorial, don't forget to Star!
