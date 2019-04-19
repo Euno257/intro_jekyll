@@ -40,3 +40,6 @@ It's happening because in our new theme, it doesn't contains layouts like 'page'
 ## Custom layouts
 You can also add a "layout" folder if you want to customize your websites layout.
 Add html file inside the folder and specify the file's name in each markdown file's layout section.
+
+## Adding includes
+Make a new folder for includes and store the html files in it. let say we want to include header of our website from 'header.html' on a another html file you have to write <p><code> {{% include header.html %}} </code></p>
