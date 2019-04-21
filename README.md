@@ -48,4 +48,8 @@ Make a new folder for includes and store the html files in it. let say we want t
 ## Add a mini database to your website
 Make a ' data' folder inside the main folder. This folder contains 3 types of data files .yml,.json & .csv format files to store the data.
 
+## for checking on localhost
+Change the directory that contains the Gem file.
+  Run in terminal <p><code> jekyll serve </code></p>
+
 #### Now our website is ready and if you want to deploy it on github pages, upload all your files to 'gh-pages' branch. Lastly if you liked the tutorial, don't forget to Star!
